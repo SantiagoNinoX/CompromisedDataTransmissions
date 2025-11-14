@@ -1,0 +1,12 @@
+Integrantes del equipo:
+- Santiago Ramírez Niño - A01665906.
+- Omar Llano Tostado - A01660505.
+- Alejandro Ignacio Vargas Cruz - A01659714.
+
+Distribución del trabajo:
+- Parte 1: Alejandro.
+- Parte 2: Omar.
+- Parte 3: Santiago.
+
+Análisis y Diseño de Algoritmos Avanzados.
+Profesor: Dr. Salvador E. Venegas.
